@@ -1,0 +1,14 @@
+{
+    "name": "nguye/cake-main",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "composer init"
+        }
+    ],
+    "require": {}
+}
